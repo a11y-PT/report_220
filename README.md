@@ -1,6 +1,6 @@
 ---
 website: "Agrupamento de Escolas de Ansião"          # Entre as aspas escreve o nome do website
-date: "23/10/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "24/11/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.agansiao.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.agansiao.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 a11y_statement_date: "97/10/2026" # Data da declaração de acessibilidade
